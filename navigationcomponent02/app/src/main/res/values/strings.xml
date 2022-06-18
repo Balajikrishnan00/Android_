@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">navigation component02</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Enter_your_details_blow">Enter Your Details Blow:</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_yout_number">enter your number</string>
+    <string name="verify_details">verify Details</string>
+    <string name="username">Username</string>
+    <string name="verify_your_entered_details">Verify Your Entered Details</string>
+</resources>

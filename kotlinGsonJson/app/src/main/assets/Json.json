@@ -1,0 +1,22 @@
+{
+  "users":[
+    {
+      "Name":{
+        "firstName": "Balaji",
+        "lastName": "Krishnan"
+      },
+      "RegisterNumber": "1433004",
+      "RollNumber": "1439020005",
+      "DOB": "26-04-1997",
+      "Total": null,
+      "Result": null,
+      "Marks": {
+        "Tamil": 70,
+        "English": 60,
+        "Maths": 90,
+        "Science": 68,
+        "Social": 80
+      }
+    }
+  ]
+}

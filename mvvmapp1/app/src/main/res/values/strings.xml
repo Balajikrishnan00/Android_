@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mvvm app1</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?\nSign Up Here</string>
+    <string name="balaji_gmail_com">balaji@gmail.com</string>
+    <string name="mvvm">MVVM</string>
+    <string name="architect_your_app_with">architect your app with</string>
+    <string name="password">password</string>
+    <string name="already_have_an_account">Already have an account?\nSign in Here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="balaji_krishnan">Balaji Krishnan</string>
+    <string name="login">Login</string>
+</resources>

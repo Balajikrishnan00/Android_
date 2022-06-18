@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/enterDetailFragment">
+
+    <fragment
+        android:id="@+id/enterDetailFragment"
+        android:name="com.balaji_2_2_0_5.navigationcomponent02.fragment.EnterDetailFragment"
+        android:label="fragment_enter_detail"
+        tools:layout="@layout/fragment_enter_detail" >
+        <action
+            android:id="@+id/action_enterDetailFragment_to_verifyFragment"
+            app:destination="@id/verifyFragment"/>
+    </fragment>
+    <fragment
+        android:id="@+id/verifyFragment"
+        android:name="com.balaji_2_2_0_5.navigationcomponent02.fragment.VerifyFragment"
+        android:label="fragment_verify"
+        tools:layout="@layout/fragment_verify" />
+</navigation>
